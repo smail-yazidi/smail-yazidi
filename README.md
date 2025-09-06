@@ -9,7 +9,7 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - 🎓 **Education**: Full Stack Web Development Diploma from OFPPT Ifrane
 - 🏠 **Location**: Ifrane, Morocco
 - 🎂 **Age**: 22
-- 🌍 **Languages**: Arabic (Native), Tamazight (Native), English (B1), French (B1)
+- 🌍 **Languages**: English, French, Arabic, Tamazight, 
 - 💼 **Status**: Open to new opportunities
 
 ## 🛠️ Tech Stack
@@ -79,10 +79,13 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - Improved citizen request tracking and handling
 - Enhanced communication between administration and citizens
 
-## 📈 GitHub Stats
 
+## 📈 GitHub Contribution Graph
+
+![Smail Yazidi's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&theme=react-dark&hide_border=true)
+
+## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak" />
 </div>
 
