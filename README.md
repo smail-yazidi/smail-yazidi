@@ -82,15 +82,22 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 
 
-
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics  
 
 <div align="center">
-  <a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+
+### 🔥 Most Used Languages
+<a href="https://github.com/Smail-Yazidi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=radical"/>
+</a>
+
+### ⚡ GitHub Streak
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak"/>
+</a>
+
 </div>
+
 
 
 
