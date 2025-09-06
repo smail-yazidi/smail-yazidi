@@ -52,16 +52,6 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 🎓 Education
-
-### 🎓 Training in Web Development   **2024 – 2025**  
-*Azrou Center for Community Development Akhawayn* 
-
-### 🎓 Full Stack Web Development Diploma  **2022 – 2024**  
-*Specialized Institute of Applied Technology Ifrane (OFPPT)*
-
-### 🎓 Baccalaureate in Life and Earth Sciences  **2021**  
-*High School Sidi El Makhfi*
 
 ## 💼 Experience
 
@@ -76,6 +66,20 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - I designed and implemented a complaint management application to improve the tracking and handling of citizen requests.
 - This project helped me strengthen my full-stack development skills and communication with users.
 - Technologies: Laravel, MySQL.
+
+## 🎓 Education
+
+### 🎓 Training in Web Development   
+**2024 – 2025**  
+*Azrou Center for Community Development Akhawayn* 
+
+### 🎓 Full Stack Web Development Diploma  
+**2022 – 2024**  
+*Specialized Institute of Applied Technology Ifrane (OFPPT)*
+
+### 🎓 Baccalaureate in Life and Earth Sciences  
+**2021**  
+*High School Sidi El Makhfi*
 
 ## 📈 GitHub Analytics
 
