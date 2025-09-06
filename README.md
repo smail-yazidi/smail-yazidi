@@ -57,34 +57,29 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 ## 💼 Experience
 
-### 🏛️ Web Development Internship - Al Akhawayn University
-**June 2025 - July 2025**
-- During this internship, I developed a table management system for the CLE department, enabling optimal organization of tutors and students.
-- I also created a real-time digital display system to easily identify tutors and available tables. 
-- Technologies: React.js, Node.js, MongoDB.
+<div align="center">
+  
+| 🏛️ **Organization** | 📅 **Date** | 🚀 **Key Achievements** |
+|---------------------|-------------|------------------------|
+| **Al Akhawayn University – Web Development Intern** | *June 2025 – July 2025* | • Built a table-management system for the CLE department <br>• Created a real-time digital display for tutor availability <br>**Stack:** React.js · Node.js · MongoDB |
+| **Commune de Sidi El Makhfi – Web Development Intern** | *March 2024 – April 2024* | • Designed and implemented a complaint-management app for citizens <br>• Strengthened full-stack skills and user communication <br>**Stack:** Laravel · MySQL |
 
-### 🏛️ Web Development Internship - Commune de Sidi El Makhfi
-**March 2024 - April 2024**
-- I designed and implemented a complaint management application to improve the tracking and handling of citizen requests.
-- This project helped me strengthen my full-stack development skills and communication with users.
-- Technologies: Laravel, MySQL.
+</div>
 
-
-
+---
 
 ## 🎓 Education
 
-### 🎓 Training in Web Development   
-**2024 – 2025**  
-*Azrou Center for Community Development Akhawayn* 
+<div align="center">
+  
+| 🎓 **Degree / Training** | 📅 **Year** | 🏫 **Institution** |
+|-------------------------|-------------|-------------------|
+| **Training in Web Development** | 2024 – 2025 | Azrou Center for Community Development Akhawayn |
+| **Full-Stack Web Development Diploma** | 2022 – 2024 | Specialized Institute of Applied Technology Ifrane (OFPPT) |
+| **Baccalaureate in Life & Earth Sciences** | 2021 | High School Sidi El Makhfi |
 
-### 🎓 Full Stack Web Development Diploma  
-**2022 – 2024**  
-*Specialized Institute of Applied Technology Ifrane (OFPPT)*
+</div>
 
-### 🎓 Baccalaureate in Life and Earth Sciences  
-**2021**  
-*High School Sidi El Makhfi*
 
 
 
