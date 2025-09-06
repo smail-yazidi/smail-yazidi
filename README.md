@@ -30,24 +30,24 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 ## 🎓 Education
 
 ## 🎓 Training in Web Development  
-**2024 – 2025**  
-*Azrou Center for Community Development Akhawayn*
+######**2024 – 2025**  
+######*Azrou Center for Community Development Akhawayn*
 
 ## 🎓 Full Stack Web Development Diploma  
-**2022 – 2024**  
-*Specialized Institute of Applied Technology Ifrane (OFPPT)*
+######**2022 – 2024**  
+######*Specialized Institute of Applied Technology Ifrane (OFPPT)*
 
 ## 🎓 Baccalaureate in Life and Earth Sciences  
-**2021**  
-*High School Sidi El Makhfi*
+######**2021**  
+######*High School Sidi El Makhfi*
 
 ## 💼 Professional Experience
 
-## 🏛️ Web Development Internship - Al Akhawayn University
-**June 2025 - July 2025**
+###### 🏛️ Web Development Internship - Al Akhawayn University
+######**June 2025 - July 2025**
 
-## 🏛️ Web Development Internship - Commune de Sidi El Makhfi
-**March 2024 - April 2024**
+###### 🏛️ Web Development Internship - Commune de Sidi El Makhfi
+######**March 2024 - April 2024**
 
 ## 📈 GitHub Contribution Graph
 
@@ -85,3 +85,4 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 ![Visitor Count](https://profile-counter.glitch.me/Smail-Yazidi/count.svg)
 
 </div>
+
