@@ -73,15 +73,15 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 ### 🏛️ Web Development Internship - Al Akhawayn University
 **June 2025 - July 2025**
-- Developed and maintained web applications using modern technologies
-- Collaborated with cross-functional teams to deliver high-quality solutions
-- Gained hands-on experience in full-stack development
+- During this internship, I developed a table management system for the CLE department, enabling optimal organization of tutors and students.
+- I also created a real-time digital display system to easily identify tutors and available tables. 
+- Technologies: React.js, Node.js, MongoDB.
 
 ### 🏛️ Web Development Internship - Commune de Sidi El Makhfi
 **March 2024 - April 2024**
-- Built responsive web interfaces for municipal services
-- Implemented database solutions for local government operations
-- Enhanced user experience through modern web design principles
+- I designed and implemented a complaint management application to improve the tracking and handling of citizen requests.
+- This project helped me strengthen my full-stack development skills and communication with users.
+- Technologies: Laravel, MySQL.
 
 ## 📈 GitHub Analytics
 
@@ -100,28 +100,7 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smail-Yazidi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Smail-Yazidi/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Smail-Yazidi&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Smail-Yazidi/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Smail-Yazidi&repo=project2&theme=radical" />
-  </a>
-</div>
-
-*Note: Replace 'project1' and 'project2' with your actual repository names*
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
 
@@ -136,16 +115,6 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 </div>
 
-## 💰 Support My Work
-
-If you like my projects and want to support my work, you can:
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
-
-</div>
 
 ---
 
@@ -154,8 +123,6 @@ If you like my projects and want to support my work, you can:
 ### 💡 *"Transforming ideas into powerful web applications, one line of code at a time."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=red&style=for-the-badge)
-![Profile Views](https://hits.seeyoufreedom.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSmail-Yazidi&count_bg=%23FF6B6B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
 </div>
 
 <div align="center">
