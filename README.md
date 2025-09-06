@@ -53,6 +53,8 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 </p>
 
 
+
+
 ## 💼 Experience
 
 ### 🏛️ Web Development Internship - Al Akhawayn University
@@ -67,6 +69,9 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - This project helped me strengthen my full-stack development skills and communication with users.
 - Technologies: Laravel, MySQL.
 
+
+
+
 ## 🎓 Education
 
 ### 🎓 Training in Web Development   
@@ -80,6 +85,8 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 ### 🎓 Baccalaureate in Life and Earth Sciences  
 **2021**  
 *High School Sidi El Makhfi*
+
+
 
 ## 📈 GitHub Analytics
 
@@ -97,6 +104,8 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
+
+
 
 
 ## 📫 Let's Connect
