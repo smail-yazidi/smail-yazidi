@@ -92,18 +92,11 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 <div align="center">
   <a href="https://github.com/Smail-Yazidi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
 
 
 
