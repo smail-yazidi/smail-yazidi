@@ -54,16 +54,13 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 ## 🎓 Education
 
-### 🎓 Training in Web Development  
-**2024 – 2025**  
-*Azrou Center for Community Development Akhawayn*
+### 🎓 Training in Web Development   **2024 – 2025**  
+*Azrou Center for Community Development Akhawayn* 
 
-### 🎓 Full Stack Web Development Diploma  
-**2022 – 2024**  
+### 🎓 Full Stack Web Development Diploma  **2022 – 2024**  
 *Specialized Institute of Applied Technology Ifrane (OFPPT)*
 
-### 🎓 Baccalaureate in Life and Earth Sciences  
-**2021**  
+### 🎓 Baccalaureate in Life and Earth Sciences  **2021**  
 *High School Sidi El Makhfi*
 
 ## 💼 Experience
@@ -107,8 +104,8 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smail.yazidi.contact@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/smail_yazidi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smail-yazidi.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0719270155)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0719270155)
 
 </div>
 
