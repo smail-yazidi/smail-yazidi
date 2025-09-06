@@ -6,7 +6,6 @@
 I'm a dynamic and ambitious web developer specializing in building robust web applications. I hold a diploma in full-stack web development and received additional training from the Azrou Center for Community Development. I'm always looking for opportunities to apply my skills and contribute to motivated and collaborative teams.
 
 ### 🌟 Quick Facts
-- 🎓 **Education**: Full Stack Web Development Diploma from OFPPT Ifrane
 - 🏠 **Location**: Ifrane, Morocco
 - 🎂 **Age**: 22
 - 🌍 **Languages**: English, French, Arabic, Tamazight
@@ -30,24 +29,24 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 ## 🎓 Education
 
+## 🎓 Training in Web Development  
 **2024 – 2025**  
-Training in Web Development  
 *Azrou Center for Community Development Akhawayn*
 
+## 🎓 Full Stack Web Development Diploma  
 **2022 – 2024**  
-Full Stack Web Development Diploma  
 *Specialized Institute of Applied Technology Ifrane (OFPPT)*
 
+## 🎓 Baccalaureate in Life and Earth Sciences  
 **2021**  
-Baccalaureate in Life and Earth Sciences  
 *High School Sidi El Makhfi*
 
 ## 💼 Professional Experience
 
-### 🎓 Web Development Internship - Al Akhawayn University
+## 🏛️ Web Development Internship - Al Akhawayn University
 **June 2025 - July 2025**
 
-### 🏛️ Web Development Internship - Commune de Sidi El Makhfi
+## 🏛️ Web Development Internship - Commune de Sidi El Makhfi
 **March 2024 - April 2024**
 
 ## 📈 GitHub Contribution Graph
