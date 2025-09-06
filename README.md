@@ -14,9 +14,6 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - 🎂 **Age**: 22
 - 🌍 **Languages**: English, French, Arabic, Tamazight
 - 💼 **Status**: Open to new opportunities
-- 🔭 **Currently working on**: Web development projects
-- 🌱 **Currently learning**: Advanced React patterns and cloud technologies
-- 💬 **Ask me about**: React, JavaScript, PHP, Laravel, and web development
 
 ## 🛠️ Tech Stack
 
@@ -69,7 +66,7 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 **2021**  
 *High School Sidi El Makhfi*
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🏛️ Web Development Internship - Al Akhawayn University
 **June 2025 - July 2025**
