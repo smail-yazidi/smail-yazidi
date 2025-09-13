@@ -61,12 +61,38 @@
 
 <div align="center">
 
-  <a href="mailto:smail.yazidi.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <div>
+    <a href="mailto:smail.yazidi.contact@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </div>
 
+  <div>
+    <a href="https://x.com/smail_yazidi" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://smail-yazidi.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://wa.me/0719270155" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://t.me/0719270155" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+  </div>
 
 </div>
+
 
 ##
 
