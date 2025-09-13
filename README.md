@@ -1,6 +1,9 @@
 <div align="center">
-  <h1 style="color:#D946EF; font-weight: bold;">Full Stack Web Developer</h1>
+
+[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=white)](#)
+
 </div>
+
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
@@ -53,9 +56,6 @@
 
 <div align="center">
 <p align="center">
-  <a href="https://linkedin.com/in/smail-yazidi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:smail.yazidi.contact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -65,9 +65,7 @@
   <a href="https://smail-yazidi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
 
-<p align="center">
   <a href="https://wa.me/0719270155" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
@@ -77,7 +75,7 @@
 </p>
 </div>
 
-
+##
 
 <div align="center" style="margin: 20px 0;">
   
