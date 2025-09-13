@@ -12,8 +12,9 @@
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
-## 🛠️ Tech Stack
+
 <div align="center">
+  ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -32,8 +33,9 @@
 </p>
 </div>
 
-## 📈 GitHub Analytics  
+
 <div align="center">
+  ## 📈 GitHub Analytics  
   <table>
     <tr>
       <td>
@@ -57,31 +59,18 @@
   </table>
 </div>
 
-## 📫 Let's Connect!
-
 <div align="center">
 
-  <a href="mailto:smail.yazidi.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+## 🌐 Connect with Me 🍬
 
-  <a href="https://x.com/smail_yazidi" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-
-  <a href="https://smail-yazidi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <a href="https://wa.me/0719270155" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-
-  <a href="https://t.me/0719270155" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:smail.yazidi.contact@gmail.com) 
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/smail_yazidi) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://smail-yazidi.vercel.app) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/0719270155) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/0719270155)
 
 </div>
+
 
 
 ##
