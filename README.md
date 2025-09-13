@@ -68,7 +68,7 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=green&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=red&style=for-the-badge)
 
 </div>
 
