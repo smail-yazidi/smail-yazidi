@@ -51,35 +51,16 @@
   </table>
 </div>
 
-## 📫 Connect With Me
 
-<div align="center">
+## 📫 Contact Me  
 
-  <a href="https://linkedin.com/in/smail-yazidi/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
-  </a>
+- **LinkedIn:** [linkedin.com/in/smail-yazidi](https://linkedin.com/in/smail-yazidi)  
+- **Email:** [smail.yazidi.contact@gmail.com](mailto:smail.yazidi.contact@gmail.com)  
+- **X (Twitter):** [x.com/smail_yazidi](https://x.com/smail_yazidi)  
+- **Website:** [smail-yazidi.vercel.app](https://smail-yazidi.vercel.app)  
+- **WhatsApp:** [wa.me/0719270155](https://wa.me/0719270155)  
+- **Telegram:** [t.me/0719270155](https://t.me/0719270155)  
 
-  <a href="mailto:smail.yazidi.contact@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=tiHbAqWU3ZCQ&format=png&color=000000" width="40" height="40" alt="Email"/>
-  </a>
-
-  <a href="https://x.com/smail_yazidi">
-    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="40" height="40" alt="X (Twitter)"/>
-  </a>
-
-  <a href="https://smail-yazidi.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=LmG49EnUQig9&format=png&color=000000" width="40" height="40" alt="Website"/>
-  </a>
-
-  <a href="https://wa.me/0719270155">
-    <img src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000" width="40" height="40" alt="WhatsApp"/>
-  </a>
-
-  <a href="https://t.me/0719270155">
-    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40" height="40" alt="Telegram"/>
-  </a>
-
-</div>
 
 
 
