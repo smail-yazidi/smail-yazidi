@@ -1,11 +1,12 @@
 <div align="center">
   <a href="https://smail-yazidi.vercel.app">
     <img 
-      src="https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=black" 
+      src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge&logo=appwrite&logoColor=D946EF&labelColor=000000&color=000000&label=&message=Full%20Stack%20Developer" 
       alt="Full Stack Developer"
       width="350">
   </a>
 </div>
+
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
