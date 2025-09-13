@@ -30,6 +30,15 @@
 </div>
 
 ## 📈 GitHub Analytics  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=D946EF&vCenter=true&size=22&pause=1000" alt="Typing Animation">
+</div>
+
+<div align="center">
+  <a href="https://github.com/Smail-Yazidi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+</div>
 
 <div align="center">
   <table>
