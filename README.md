@@ -30,5 +30,6 @@
 <!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=smail-yazidi&icon=10&color=6)](https://visitcount.itsvg.in)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=D946EF&style=for-the-badge)
+
 </div>
