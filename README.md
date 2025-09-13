@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://smail-yazidi.vercel.app">
     <img 
-      src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge&logo=appwrite&logoColor=D946EF&labelColor=000000&color=000000&label=&message=Full%20Stack%20Developer" 
+      src="https://img.shields.io/badge/Full%20Stack%20Developer-D946EF?style=for-the-badge&logo=appwrite&logoColor=D946EF&labelColor=000000&color=000000&label=&message=Full%20Stack%20Developer" 
       alt="Full Stack Developer"
       width="350">
   </a>
