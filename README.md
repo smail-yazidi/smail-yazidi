@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats
 <a href="https://github.com/Smail-Yazidi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 
 ### 🔥 Most Used Languages
