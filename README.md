@@ -30,6 +30,7 @@
 </div>
 
 ## 📈 GitHub Analytics  
+[![Smail-Yazidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true)](https://github.com/Smail-Yazidi)
 
 <div align="center">
   <table>
