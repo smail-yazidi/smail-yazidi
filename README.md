@@ -1,13 +1,12 @@
 <div align="center">
-  <a href="https://smail-yazidi.vercel.app">
-    <svg xmlns="http://www.w3.org/2000/svg" width="350" height="50">
-      <rect width="350" height="50" fill="#000000" rx="8"/>
-      <text x="50%" y="50%" fill="#D946EF" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="bold" dominant-baseline="middle" text-anchor="middle">
-        Full Stack Developer
-      </text>
-    </svg>
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=white" 
+      alt="Full Stack Developer"
+      width="300">
   </a>
 </div>
+
 
 
 
