@@ -1,41 +1,12 @@
-# Hi there, I'm Smail Yazidi 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing Animation">
 </div>
 
 <div align="center">
-
-
-  
-
-
-
-**Dark Theme**  
-
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
-
-
-
-
-
-
-
-
-
 </div>
-## 🚀 Full Stack Web Developer
-> Transform your ideas into powerful web applications
-
-I'm a dynamic and ambitious web developer specializing in building robust web applications. I hold a diploma in full-stack web development and received additional training from the Azrou Center for Community Development. I'm always looking for opportunities to apply my skills and contribute to motivated and collaborative teams.
-
-### 🌟 Quick Facts
-- 🏠 **Location**: Ifrane, Morocco
-- 🎂 **Age**: 22
-- 🌍 **Languages**: English, French, Arabic, Tamazight
-- 💼 **Status**: Open to new opportunities
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +16,6 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-
 </p>
 
 ### Backend
@@ -61,7 +31,6 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
 </p>
 
 ### Tools & Environment
@@ -69,43 +38,17 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-
-
-
-
-## 💼 Experience
-
-<div align="center">
-  
-| 🏛️ **Organization** | 📅 **Date** | 🚀 **Key Achievements** |
-|---------------------|-------------|------------------------|
-| **Al Akhawayn University – Web Development Intern** | *June 2025 – July 2025* | • Built a table-management system for the CLE department <br>• Created a real-time digital display for tutor availability <br>**Stack:** React.js · Node.js · MongoDB |
-| **Commune de Sidi El Makhfi – Web Development Intern** | *March 2024 – April 2024* | • Designed and implemented a complaint-management app for citizens <br>• Strengthened full-stack skills and user communication <br>**Stack:** Laravel · MySQL |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-  
-| 🎓 **Degree / Training** | 📅 **Year** | 🏫 **Institution** |
-|-------------------------|-------------|-------------------|
-| **Training in Web Development** | 2024 – 2025 | Azrou Center for Community Development Akhawayn |
-| **Full-Stack Web Development Diploma** | 2022 – 2024 | Specialized Institute of Applied Technology Ifrane (OFPPT) |
-| **Baccalaureate in Life & Earth Sciences** | 2021 | High School Sidi El Makhfi |
-
-</div>
-
-
 
 ## 📈 GitHub Analytics  
 
 <div align="center">
+
+### 📊 GitHub Stats Overview
+<a href="https://github.com/Smail-Yazidi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
 
 ### 🔥 Most Used Languages
 <a href="https://github.com/Smail-Yazidi">
@@ -117,14 +60,29 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak"/>
 </a>
 
+### 🏆 GitHub Trophies
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-profile-trophy.vercel.app/?username=Smail-Yazidi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
+
+### 📊 Contribution Graph
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&bg_color=0d1117&color=79ff97&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
+
+### 📈 Profile Summary
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=radical" alt="Profile Summary"/>
+</a>
+
+### ⏰ Productivity Stats
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Smail-Yazidi&theme=radical&utcOffset=1" alt="Productive Time"/>
+</a>
+
 </div>
 
-
-
-
-
-
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
   
@@ -137,14 +95,12 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 
 </div>
 
-
 ---
 
 <div align="center">
   
-### 💡 *"Transforming ideas into powerful web applications, one line of code at a time."*
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=red&style=for-the-badge)
+
 </div>
 
 <div align="center">
