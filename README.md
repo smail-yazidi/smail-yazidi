@@ -73,7 +73,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
 ##
+
 <div align="center" style="margin: 20px 0;">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=007acc&style=for-the-badge)
