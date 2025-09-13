@@ -1,11 +1,14 @@
 <div align="center">
   <a href="https://smail-yazidi.vercel.app">
-    <img 
-      src="https://img.shields.io/badge/Full%20Stack%20Developer-D946EF?style=for-the-badge&logo=appwrite&logoColor=D946EF&labelColor=000000&color=D946EF&label=&message=Full%20Stack%20Developer" 
-      alt="Full Stack Developer"
-      width="350">
+    <svg xmlns="http://www.w3.org/2000/svg" width="350" height="50">
+      <rect width="350" height="50" fill="#000000" rx="8"/>
+      <text x="50%" y="50%" fill="#D946EF" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="bold" dominant-baseline="middle" text-anchor="middle">
+        Full Stack Developer
+      </text>
+    </svg>
   </a>
 </div>
+
 
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
