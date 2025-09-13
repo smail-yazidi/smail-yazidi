@@ -32,37 +32,32 @@
 ## 📈 GitHub Analytics  
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Smail-Yazidi">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Smail-Yazidi">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📊 GitHub Stats
-<a href="https://github.com/Smail-Yazidi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
+<div align="center">
+  <a href="https://github.com/Smail-Yazidi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
+  </a>
+</div>
 
-### 🔥 Most Used Languages
-<a href="https://github.com/Smail-Yazidi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</a>
-
-### ⚡ GitHub Streak
-<a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
-</a>
-
-### 📈 Profile Summary
-<a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=github_dark" alt="Profile Summary"/>
-</a>
-
-### 🏆 GitHub Trophies
-<a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smail-Yazidi&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</a>
-
-### 📊 Contribution Graph
-<a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/Smail-Yazidi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=github_dark" alt="Profile Summary"/>
+  </a>
 </div>
 
 ## 📫 Connect
