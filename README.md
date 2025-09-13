@@ -3,13 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Typing Animation">
 </div>
-## 🐍 Contribution Snake
 
 <div align="center">
-  
-**Light Theme**
-![Snake Light](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake.svg)
-
 **Dark Theme**  
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
