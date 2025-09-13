@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/Smail-Yazidi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=github_dark" alt="Profile Summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=radical" alt="Profile Summary"/>
   </a>
 </div>
 
