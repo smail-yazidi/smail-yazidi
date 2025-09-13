@@ -3,11 +3,9 @@
     <img 
       src="https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=white" 
       alt="Full Stack Developer"
-      width="300">
+      width="400">
   </a>
 </div>
-
-
 
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
