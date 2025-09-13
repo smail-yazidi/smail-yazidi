@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00ff41&vCenter=true&size=22&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=5865F2&vCenter=true&size=22&pause=1000" alt="Typing Animation">
 </div>
 
 <div align="center">
@@ -14,47 +14,44 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339AF0?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-1D4ED8?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-5865F2?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/VIM-%234B3EFC.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 </div>
 
 ## 📈 GitHub Analytics  
 
-
 <div align="center">
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/Smail-Yazidi">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=blue-purple&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Smail-Yazidi">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=blue-purple" alt="Top Languages"/>
         </a>
       </td>
       <td>
          <a href="https://github.com/Smail-Yazidi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=blue-purple" alt="GitHub Streak"/>
   </a>
       </td>
     </tr>
   </table>
 </div>
-
-
 
 ## 📫 Connect
 
@@ -71,7 +68,7 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=brightgreen&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=blue&style=for-the-badge)
 
 </div>
 
