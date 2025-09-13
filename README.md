@@ -16,7 +16,7 @@ I'm a dynamic and ambitious web developer specializing in building robust web ap
 - 💼 **Status**: Open to new opportunities
 
 ## 🛠️ Tech Stack
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?smail-yazidi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
