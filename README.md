@@ -2,16 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=D946EF&vCenter=true&size=22&pause=1000" alt="Typing Animation">
 </div>
 
-<div align="center">
-<a href="https://github.com/Smail-Yazidi">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak"/>
-
-</a>
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=dark" alt="GitHub Stats"/>
-
 
 ## 🛠️ Tech Stack
 
@@ -35,22 +26,13 @@
 </div>
 
 ## 📈 GitHub Analytics  
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=D946EF&vCenter=true&size=22&pause=1000" alt="Typing Animation">
-</div>
-
-<div align="center">
-  <a href="https://github.com/Smail-Yazidi">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-  </a>
-</div>
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://github.com/Smail-Yazidi">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
@@ -72,20 +54,16 @@
 ## 📫 Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smail-yazidi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smail.yazidi.contact@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/smail_yazidi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smail-yazidi.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0719270155)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0719270155)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smail-yazidi/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smail.yazidi.contact@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/smail_yazidi)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smail-yazidi.vercel.app/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0719270155)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/0719270155)
 </div>
 
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=D946EF&style=for-the-badge)
-
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=D946EF&style=for-the-badge)
 </div>
 
 <div align="center">
