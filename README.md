@@ -53,27 +53,35 @@
 
 ## 📫 Connect With Me
 
-
 <div align="center">
-  <a href="https://linkedin.com/in/smail-yazidi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="color:#0077B5"/>
+
+  <a href="https://linkedin.com/in/smail-yazidi/">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:smail.yazidi.contact@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Email" style="color:#D14836"/>
+
+  <a href="mailto:smail.yazidi.contact@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=tiHbAqWU3ZCQ&format=png&color=000000" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://x.com/smail_yazidi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X" style="color:#1DA1F2"/>
+
+  <a href="https://x.com/smail_yazidi">
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="40" height="40" alt="X (Twitter)"/>
   </a>
-  <a href="https://smail-yazidi.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40" height="40" alt="Portfolio" style="color:#000000"/>
+
+  <a href="https://smail-yazidi.vercel.app/">
+    <img src="https://img.icons8.com/?size=100&id=LmG49EnUQig9&format=png&color=000000" width="40" height="40" alt="Website"/>
   </a>
-  <a href="https://wa.me/0719270155" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp" style="color:#25D366"/>
+
+  <a href="https://wa.me/0719270155">
+    <img src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000" width="40" height="40" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/0719270155" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram" style="color:#2CA5E0"/>
+
+  <a href="https://t.me/0719270155">
+    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="40" height="40" alt="Telegram"/>
   </a>
+
 </div>
+
+
 
 
 
