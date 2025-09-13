@@ -5,11 +5,25 @@
 </div>
 
 <div align="center">
+
+
+  
+
+
+
 **Dark Theme**  
+
+
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
-**Ocean Theme**
-![Snake Ocean](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/ocean.gif)
+
+
+
+
+
+
+
+
 
 </div>
 ## 🚀 Full Stack Web Developer
