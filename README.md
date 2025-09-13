@@ -59,7 +59,7 @@
 
 ## 📫 Let's Connect!
 
-<div align="row">
+<div align="flex-row">
 
   <div>
     <a href="mailto:smail.yazidi.contact@gmail.com">
