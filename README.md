@@ -53,24 +53,28 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/smail-yazidi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<!-- Load Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<div align="center" style="font-size: 40px; display: flex; justify-content: center; gap: 20px;">
+  <a href="https://linkedin.com/in/smail-yazidi/" style="color:#0077B5;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a href="mailto:smail.yazidi.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:smail.yazidi.contact@gmail.com" style="color:#D14836;">
+    <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://x.com/smail_yazidi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/smail_yazidi" style="color:#1DA1F2;">
+    <i class="fab fa-x-twitter"></i>
   </a>
-  <a href="https://smail-yazidi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://smail-yazidi.vercel.app/" style="color:#ffffff;">
+    <i class="fas fa-globe"></i>
   </a>
-  <a href="https://wa.me/0719270155">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/0719270155" style="color:#25D366;">
+    <i class="fab fa-whatsapp"></i>
   </a>
-  <a href="https://t.me/0719270155">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/0719270155" style="color:#2CA5E0;">
+    <i class="fab fa-telegram"></i>
   </a>
 </div>
 
