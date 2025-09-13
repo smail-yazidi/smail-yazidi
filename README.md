@@ -45,21 +45,16 @@
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages"/>
         </a>
       </td>
+      <td>
+         <a href="https://github.com/Smail-Yazidi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
+  </a>
+      </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Smail-Yazidi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Smail-Yazidi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=dark" alt="Profile Summary"/>
-  </a>
-</div>
 
 ## 📫 Connect
 
