@@ -30,14 +30,14 @@
 </div>
 
 ## 📈 GitHub Analytics  
-[![Smail-Yazidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true)](https://github.com/Smail-Yazidi)
+
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://github.com/Smail-Yazidi">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="GitHub Stats"/>
         </a>
       </td>
       <td>
