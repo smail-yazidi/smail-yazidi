@@ -3,7 +3,11 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/Smail-Yazidi">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=radical" alt="GitHub Streak"/>
+
+</a>
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
 </div>
