@@ -26,10 +26,10 @@
 
 </div>
 
-
-<!-- Visit Counter -->
 <div align="center">
-  
+
+## 
   ![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=D946EF&style=for-the-badge)
 
 </div>
+
