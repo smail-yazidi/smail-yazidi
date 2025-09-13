@@ -16,16 +16,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
@@ -36,19 +33,35 @@
 ## 📈 GitHub Analytics  
 
 <div align="center">
+
+### 📊 GitHub Stats
 <a href="https://github.com/Smail-Yazidi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </a>
+
+### 🔥 Most Used Languages
 <a href="https://github.com/Smail-Yazidi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smail-Yazidi&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 
+### ⚡ GitHub Streak
 <a href="https://github.com/Smail-Yazidi">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smail-Yazidi&theme=chartreuse-dark" alt="GitHub Streak"/>
 </a>
 
+### 📈 Profile Summary
 <a href="https://github.com/Smail-Yazidi">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=chartreuse_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smail-Yazidi&theme=github_dark" alt="Profile Summary"/>
+</a>
+
+### 🏆 GitHub Trophies
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-profile-trophy.vercel.app/?username=Smail-Yazidi&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
+
+### 📊 Contribution Graph
+<a href="https://github.com/Smail-Yazidi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smail-Yazidi&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </a>
 
 </div>
@@ -68,7 +81,7 @@
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=red&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Smail-Yazidi&color=brightgreen&style=for-the-badge)
 
 </div>
 
