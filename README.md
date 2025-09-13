@@ -54,29 +54,27 @@
 ## 📫 Connect With Me
 
 
-<!-- Load Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
-
-<div align="center" style="font-size: 40px; display: flex; justify-content: center; gap: 20px;">
-  <a href="https://linkedin.com/in/smail-yazidi/" style="color:#0077B5;">
-    <i class="fab fa-linkedin"></i>
+<div align="center">
+  <a href="https://linkedin.com/in/smail-yazidi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:smail.yazidi.contact@gmail.com" style="color:#D14836;">
-    <i class="fas fa-envelope"></i>
+  <a href="mailto:smail.yazidi.contact@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Email"/>
   </a>
-  <a href="https://x.com/smail_yazidi" style="color:#1DA1F2;">
-    <i class="fab fa-x-twitter"></i>
+  <a href="https://x.com/smail_yazidi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" alt="X"/>
   </a>
-  <a href="https://smail-yazidi.vercel.app/" style="color:#ffffff;">
-    <i class="fas fa-globe"></i>
+  <a href="https://smail-yazidi.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="40" height="40" alt="Portfolio"/>
   </a>
-  <a href="https://wa.me/0719270155" style="color:#25D366;">
-    <i class="fab fa-whatsapp"></i>
+  <a href="https://wa.me/0719270155" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/0719270155" style="color:#2CA5E0;">
-    <i class="fab fa-telegram"></i>
+  <a href="https://t.me/0719270155" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram"/>
   </a>
 </div>
+
 
 ##
 
