@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="#">
+  <a href="https://smail-yazidi.vercel.app">
     <img 
-      src="https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=white" 
+      src="https://img.shields.io/badge/Full_Stack_Developer-D946EF?style=flat&logo=appwrite&logoColor=black" 
       alt="Full Stack Developer"
-      width="400">
+      width="350">
   </a>
 </div>
 
