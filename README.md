@@ -7,6 +7,11 @@
 ![Snake Dark](https://raw.githubusercontent.com/smail-yazidi/smail-yazidi/output/github-snake-dark.svg)
 
 </div>
+<div align="center">
+  <a href="https://github.com/Smail-Yazidi">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Smail-Yazidi&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
