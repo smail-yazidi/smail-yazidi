@@ -13,6 +13,7 @@
   ![snake gif](https://github.com/smail-yazidi/smail-yazidi/blob/output/github-snake-dark.svg)
 </div>
 
+
 <!-- Tech Stack -->
 <div align="center">
   
