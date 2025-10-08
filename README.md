@@ -8,7 +8,6 @@
  
 
 
-
 <div align="center">
     
   ![snake gif](https://github.com/smail-yazidi/smail-yazidi/blob/output/github-snake-dark.svg)
